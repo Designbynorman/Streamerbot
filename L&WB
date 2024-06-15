@@ -24,11 +24,12 @@ OBS STUDIO SETTINGS
 - Filter Move Source (einmal für an erstellen / und einmal für aus auswählen)
 - für lurk Animation und welcome back Animation
 
-- Einblendung _[pos: x 50.0 y 668.0 rot: 0.0 scale: x 1.000 y 1.000 crop: l 0 t 0 r 0 b 0]_
+
+- Homer verschwindet [pos: x 50.0 y 668.0 rot: 0.0 scale: x 1.000 y 1.000 crop: l 0 t 0 r 0 b 0]
 
 Screenshot [Filter1] + [Filter2]
 
-- Ausblendung _[pos: x 50.0 y 368.0 rot: 0.0 scale: x 0.000 y 0.500 crop: l 0 t 0 r 0 b 0]_
+- Homer erscheint [pos: x 50.0 y 368.0 rot: 0.0 scale: x 0.000 y 0.500 crop: l 0 t 0 r 0 b 0]
 
 Screenshot [Filter3] + [Filter4]
 

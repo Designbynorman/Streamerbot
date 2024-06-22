@@ -1,1 +1,35 @@
-TEST
+Homer on/off (c# sharp)
+
+[Snippets for Streamerbot in german.]
+
+- [DesignbyNorman Website](https://www.designbynorman.com)
+
+- [Website](https://www.designbynorman.com/streamerbot/)
+
+- [On Discord](https://discord.gg/Gdt94HaFbM)
+
+- [DesignbyNorman on Twitch](https://www.twitch.tv/designbynorman)
+
+- [On Youtube](https://www.youtube.com/@DesignbyNorman)
+
+- [On Youtube](https://youtu.be/ATDNNHsbxp4)
+
+- [Playlist on Youtube](https://www.youtube.com/playlist?list=PLrgOpxS02b-PncLHRg-5W7kJ3o4TT6DhM)
+
+- [On X](https://x.com/Designbynorman)
+
+OBS STUDIO SETTINGS
+- Die animierten GIF Dateien in einer Szene einbinden!
+- Szene mit Filter einbinden (rechtsklick Filter)
+- Filter Move Source (einmal für an erstellen / und einmal für aus auswählen)
+- für lurk Animation und welcome back Animation
+
+- Achtung Filter für Szene, nicht für die Quelle wählen
+
+- Homer verschwindet [pos: x 50.0 y 668.0 rot: 0.0 scale: x 1.000 y 1.000 crop: l 0 t 0 r 0 b 0]
+
+Screenshot [Filter1] + [Filter2]
+
+- Homer erscheint [pos: x 50.0 y 368.0 rot: 0.0 scale: x 0.000 y 0.500 crop: l 0 t 0 r 0 b 0]
+
+Screenshot [Filter3] + [Filter4]

@@ -1,6 +1,8 @@
 # Streamerbot
 Lurk Homer on/off
 
+- für lurk Animation und welcome back Animation
+
 [Snippets for Streamerbot in german.]
 
 OBS STUDIO SETTINGS
@@ -38,6 +40,8 @@ Screenshot [Filter3] + [Filter4]
 
 ![homer on](https://github.com/Designbynorman/Streamerbot/blob/main/homer_on.gif)
   
-- für lurk Animation und welcome back Animation
+![sb](https://github.com/Designbynorman/Streamerbot/blob/main/streamerbot%20lurk.png)
 
-001 Snippet LurkSound (bei dieser Methode kann die Lautstärke angepasst werden.)
+Snippet Lurk & WB
+
+![Snippet](https://github.com/Designbynorman/Streamerbot/blob/main/001%20Snippet%20LurkSound)

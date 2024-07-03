@@ -44,4 +44,4 @@ Screenshot [Filter3] + [Filter4]
 
 Snippet Lurk & WB
 
-![Snippet](https://github.com/Designbynorman/Streamerbot/blob/main/001%20Snippet%20LurkSound)
+[Snippet](https://github.com/Designbynorman/Streamerbot/blob/main/001%20Snippet%20LurkSound)

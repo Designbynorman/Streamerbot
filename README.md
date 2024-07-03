@@ -28,9 +28,15 @@ OBS STUDIO SETTINGS
 
 Screenshot [Filter3] + [Filter4]
 
-- Homer erscheint [pos: x 50.0 y 368.0 rot: 0.0 scale: x 0.000 y 0.500 crop: l 0 t 0 r 0 b 0]
+- Homer erscheint (!wb)
 
-- 
+- pos: x 50.0 y 368.0 rot: 0.0 scale: x 0.000 y 0.500 crop: l 0 t 0 r 0 b 0
+
+![Filter3 off](https://github.com/Designbynorman/Streamerbot/blob/main/Filter3%20off.png)
+
+![Filter4 off](https://github.com/Designbynorman/Streamerbot/blob/main/Filter4%20off.png)
+
+[!homer on](https://github.com/Designbynorman/Streamerbot/blob/main/homer_on.gif)
   
 - für lurk Animation und welcome back Animation
 

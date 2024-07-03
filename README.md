@@ -12,9 +12,7 @@ Lurk Homer on/off
 OBS STUDIO SETTINGS
 - Die animierten GIF Dateien in einer Szene einbinden!
 
-
 - Szene mit Filter einbinden (rechtsklick Filter)
-
 
 - Filter Move Source (einmal für an erstellen / und einmal für aus auswählen)
 
@@ -53,8 +51,6 @@ Snippet Lurk & WB
 [DesignbyNorman on Twitch](https://www.twitch.tv/designbynorman)
 
 [On Youtube](https://www.youtube.com/@DesignbyNorman)
-
-[On Youtube](https://www.youtube.com/watch?v=HdMd97M6huI)
 
 [Playlist on Youtube](https://www.youtube.com/playlist?list=PLrgOpxS02b-PncLHRg-5W7kJ3o4TT6DhM)
 

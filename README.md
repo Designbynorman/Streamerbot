@@ -36,7 +36,7 @@ Screenshot [Filter3] + [Filter4]
 
 ![Filter4 off](https://github.com/Designbynorman/Streamerbot/blob/main/Filter4%20off.png)
 
-[!homer on](https://github.com/Designbynorman/Streamerbot/blob/main/homer_on.gif)
+![homer on](https://github.com/Designbynorman/Streamerbot/blob/main/homer_on.gif)
   
 - für lurk Animation und welcome back Animation
 

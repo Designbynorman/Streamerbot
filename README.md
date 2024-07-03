@@ -24,7 +24,7 @@ OBS STUDIO SETTINGS
 
 ![Filter2](https://github.com/Designbynorman/Streamerbot/assets/118851815/972c0a9c-e198-45ca-939c-80eb010d9ddc)
 
-(https://github.com/Designbynorman/Streamerbot/blob/main/homer_off.gif)
+![Homer lurk](https://github.com/Designbynorman/Streamerbot/blob/main/homer_off.gif)
 
 Screenshot [Filter3] + [Filter4]
 

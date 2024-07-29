@@ -9,6 +9,8 @@ Lurk Homer on/off
 
 [SB Einrichtung](https://www.designbynorman.com/streamer-bot-einrichten/)
 
+![Zeitstempel](
+https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/Zeitstempel.jpg)
 OBS STUDIO SETTINGS
 - Die animierten GIF Dateien in einer Szene einbinden!
 
